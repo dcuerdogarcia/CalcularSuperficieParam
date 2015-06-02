@@ -12,7 +12,7 @@ import static superficies.logic.calcular;
 
 /**
  * commit añadido tambien
- * @author mpereirasalgado
+ * @author dcuerdogarcia
  */
 public class Visualizar {
 

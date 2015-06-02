@@ -8,7 +8,7 @@ package superficies;
 
 /**
  *
- * @author mpereirasalgado
+ * @author dcuerdogarcia
  */
 public class logic {
     public static float calcular(Modelo contenedor){
